@@ -1,4 +1,4 @@
-from kb import KMKKeyboard
+from boards.keebio.iris.kb import KMKKeyboard
 
 from kmk.consts import UnicodeMode
 from kmk.extensions.rgb import RGB
